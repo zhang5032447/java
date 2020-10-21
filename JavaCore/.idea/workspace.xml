@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f385e6d-6459-41fe-a1c5-3ec03afebfab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iVC5SmB88XJMGtAFsM9KjTSQbQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Demo01">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.example.fx.Demo01" />
+      <module name="Testt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.example.fx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.example.fs.Demo06" />
+      <module name="Testt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.example.fs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.example.fx.Demo06" />
+      <module name="Testt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.example.fx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.example.IOCDemo" />
+      <module name="Testt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zw.example.single.SingleMain" />
+      <module name="Testt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zw.example.single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.IOCDemo" />
+        <item itemvalue="Application.SingleMain" />
+        <item itemvalue="Application.Demo06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f385e6d-6459-41fe-a1c5-3ec03afebfab" name="Default Changelist" comment="" />
+      <created>1601983188229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601983188229</updated>
+      <workItem from="1601983207918" duration="3133000" />
+      <workItem from="1601990554500" duration="10537000" />
+      <workItem from="1602044462506" duration="697000" />
+      <workItem from="1602073107736" duration="5368000" />
+      <workItem from="1602152201242" duration="6905000" />
+      <workItem from="1602253229660" duration="2227000" />
+      <workItem from="1602380072457" duration="5279000" />
+      <workItem from="1603293538658" duration="2500000" />
+      <workItem from="1603296350348" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1528" y="507" key="#com.intellij.ide.util.MemberChooser" timestamp="1602076513820">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1528" y="507" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1602076513820" />
+    <state width="1503" height="185" key="GridCell.Tab.0.bottom" timestamp="1602083669180">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1503" height="185" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1602083669180" />
+    <state width="1503" height="185" key="GridCell.Tab.0.center" timestamp="1602083669180">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1503" height="185" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1602083669180" />
+    <state width="1503" height="185" key="GridCell.Tab.0.left" timestamp="1602083669179">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1503" height="185" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1602083669179" />
+    <state width="1503" height="185" key="GridCell.Tab.0.right" timestamp="1602083669180">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1503" height="185" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1602083669180" />
+    <state x="434" y="372" key="new project wizard" timestamp="1603296134816">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="434" y="372" key="new project wizard/0.23.1680.956@0.23.1680.956" timestamp="1603296134816" />
+    <state x="1128" y="511" key="new project wizard/0.23.2560.1337@0.23.2560.1337" timestamp="1602045199990" />
+  </component>
+</project>
